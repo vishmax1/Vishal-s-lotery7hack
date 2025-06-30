@@ -1,1 +1,2 @@
-# Vishal-s-lotery7hack
+# Wingo Predictor Backend
+Node.js scraper and API
