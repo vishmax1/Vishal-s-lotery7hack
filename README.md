@@ -1,2 +1,2 @@
-# Wingo Predictor Backend
-Node.js scraper and API
+# Wingo Predictor Frontend
+React app for UI
